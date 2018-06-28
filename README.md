@@ -1,5 +1,3 @@
-# Prestashop_backoffice_benchmark
-To anyone who want to measure the back-office pages repsonses time
 [![Prestashop](https://i.imgur.com/qDqeQ1E.png)](https://www.prestashop.com)
 
 # How to benchmark your PrestaShop Shop (Back-office)
