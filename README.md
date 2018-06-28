@@ -6,6 +6,8 @@
 Download Gatling **[here](https://gatling.io/download/)**, and in the same way have a look at **[the Gatling quickstart page](https://gatling.io/docs/current/quickstart/)**.
 
 Once unzipping the folder look like below:
+
+
 ![Gatling](https://i.imgur.com/CTgIXKr.png)
 
 ### Your Gatling is ready to be run
