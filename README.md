@@ -8,7 +8,7 @@ Download Gatling **[here](https://gatling.io/download/)**, and in the same way h
 Once unzipping the folder look like below:
 
 
-![Gatling](https://i.imgur.com/CTgIXKr.png)
+![Gatling](https://i.imgur.com/devRwHF.png)
 
 ### Your Gatling is ready to be run
 Now let's test if our Gatling works well, so you can launch a sample test included natively in the project with the CLI:
