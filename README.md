@@ -51,7 +51,7 @@ this PR (https://github.com/PrestaShop/PrestaShop/pull/8876)
 
 
 Setup environnement _TOKEN_ variable to "disabled" allows you to disable token in urls for Symfony pages and in legacy pages.
-Someone from QA team needs to setup environment variable (SetEnv _TOKEN_ disabled in apache vhost configuration file) and check that Symfony pages (Product, Module, ...) urls doesn't contains _token anymore and legacy pages shouldn't contains token parameter.
+If you want to test it you need to setup environment variable (SetEnv _TOKEN_ disabled in apache vhost configuration file) and check that Symfony pages (Product, Module, ...) urls doesn't contains _token anymore and legacy pages shouldn't contains token parameter.
 
 etc/apache2/sites-enabled/000-default.conf
 
