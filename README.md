@@ -22,7 +22,7 @@ And choose the simulation you want to run
 ![Gatling](https://i.imgur.com/HQ5eCfZ.png)
 
 In my example I run "[1] basic.BasicExempleSimulation"
-![Gatling](https://i.imgur.com/usqfk2L.png)
+![Gatling](https://i.imgur.com/nJdOPsB.png)
 
 ##### Well done! Our Gatling installation is ready!
 After few minutes you can consult the detailed report generated automatically into "results" folder.
