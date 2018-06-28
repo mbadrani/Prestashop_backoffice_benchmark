@@ -18,6 +18,7 @@ Now let's test if our Gatling works well, so you can launch a sample test includ
 ```
 
 And choose the simulation you want to run
+
 ![Gatling](https://i.imgur.com/HQ5eCfZ.png)
 
 In my example I run "[1] basic.BasicExempleSimulation"
